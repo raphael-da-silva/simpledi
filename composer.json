@@ -1,0 +1,23 @@
+{
+    "name": "raphael-da-silva/simpledi",
+    "description": "Simple DI Container.",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "Dependency",
+        "Injection",
+        "DI",
+        "Container"
+    ],
+    "authors": [
+        {
+            "name": "Raphael da Silva"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "SimpleDI\\": "./src/"
+        }
+    }
+}
