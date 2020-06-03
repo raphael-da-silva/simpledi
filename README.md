@@ -1,6 +1,6 @@
 ### Simple DI
 
-The goal of this project is the creation of simple container.
+The goal of this project is the creation of simple container. This container is inspired by Pimple.
 
 #### Usage
 
