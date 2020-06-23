@@ -25,7 +25,7 @@ $di['Config'];
 // Or with class method
 $di->get('Config');
 
-// Get closure from container
+// Get closure from container without execute
 $di->raw('Config');
 
 ```
